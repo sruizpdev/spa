@@ -1,4 +1,4 @@
-# Spa
+# Single Page App using Angular and a simulated service response.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
